@@ -10,7 +10,7 @@ html {
 body {
   background-color: rgb(32, 31, 31);
   position: relative;
-  display: flex;
+   /*display: flex;*/
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;

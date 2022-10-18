@@ -166,7 +166,7 @@ section {
 
 .box-item {
   width: 800px;
-  height: 300px;
+  height: 510px;
   background-color: rgb(248, 244, 244);
   border-top: 1px solid rgb(155, 151, 151);
   position: relative;
@@ -177,7 +177,7 @@ section {
 
 .sobre {
   width: 800px;
-  height: 150px;
+  height: 1500px;
   background-color: rgb(248, 244, 244);
 }
 
@@ -326,7 +326,7 @@ footer {
   }
 
   h3.texto {
-    max-width: 700px;
+    max-width: 900px;
   }
   .divider {
     max-width: 768px;
@@ -367,7 +367,6 @@ footer {
   .sobre {
     max-width: 700px;
   }
-
   footer {
     max-width: 768px;
   }
@@ -395,14 +394,12 @@ footer {
   section {
     max-width: 400px;
   }
-
   h1.nome {
     font-size: medium;
   }
   h2.nome {
     font-size: small;
   }
-
   h3.texto {
     max-width: 350px;
     font-size: x-small;
@@ -448,25 +445,20 @@ footer {
   .sobre {
     max-width: 350px;
   }
-
   img.contatos {
     
     height: 1.5rem;
   }
-
   footer {
     max-width: 400px;
   }
   .timeline {
     max-width: 350px;
   }
-
   .timeline ul {
     padding: 0;
   }
 }
-
-/************** Very Small devices *************/
 
 @media (max-width: 405px) {
   body {
@@ -479,11 +471,6 @@ footer {
   div.cabecalho {
     max-width: 210px;
   }
-
-  .foto-rodrigo {
-    max-width: 150px;
-  }
-
   main {
     max-width: 210px;
   }
@@ -497,7 +484,6 @@ footer {
   h2.nome {
     font-size: x-small;
   }
-
   h3.texto {
     max-width: 210px;
     font-size: xx-small;
@@ -507,12 +493,10 @@ footer {
     font-size: 8px;
     margin: 0;
   }
-
   .timeline-content p {
     font-size: 8px;
     margin: 0;
   }
-
   .nomeCurso {
     font-size: 0.5rem;
   }
@@ -540,7 +524,6 @@ footer {
   .btn-imprimir {
     max-width: 160px;
   }
-
   .printer-btn {
     max-width: 1.5rem;
   }
@@ -568,18 +551,15 @@ footer {
   .sobre {
     max-width: 160px;
   }
-
   img.contatos {
     height: 1rem;
   }
-
   footer {
     max-width: 210px;
   }
   .timeline {
     max-width: 160px;
   }
-
   .timeline ul {
     padding: 0;
   }
